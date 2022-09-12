@@ -9,6 +9,9 @@ Endpoints
 - api/Devices
 - api/Categories
 
+![image](https://user-images.githubusercontent.com/111431904/189660701-e68c69e5-83a2-4aaf-b1bf-75f4092487f5.png)
+
+
 Reference List:
 
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio
